@@ -1,0 +1,10 @@
+{
+  "name": "db-connection",
+  "version": "1.0.0",
+  "main": "db.js",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3",
+    "axios": "^1.6.0"
+  }
+}

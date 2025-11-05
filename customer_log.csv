@@ -1,0 +1,2 @@
+timestamp,data
+2025-10-31T23:47:51.175Z,{"status":"ERROR","action":"CREATE_ROLE","role_name":"CUSTOMER_USER","error":{"errorMessage":"Role with name CUSTOMER_USER already exists"}}
